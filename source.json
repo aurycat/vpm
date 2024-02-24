@@ -1,15 +1,14 @@
 {
-    "name":"aurycat's VPM Listing",
+    "name":"aurycat's VPM Packages",
     "id":"io.github.aurycat.vpm",
     "url":"https://aurycat.github.io/vpm/index.json",
     "author":{
         "name":"aurycat",
         "url":"https://github.com/aurycat"
     },
-    "description":"aurycat's VPM Packages",
     "infoLink":{
-        "url":"http://github.com/aurycat/vpm",
-        "text":"View on GitHub"
+        "url":"http://github.com/aurycat",
+        "text":"View GitHub Page"
     },
     "bannerUrl":"",
     "githubRepos":[
