@@ -7,11 +7,11 @@
         "url":"https://github.com/aurycat"
     },
     "infoLink":{
-        "url":"http://github.com/aurycat",
-        "text":"View GitHub Page"
+        "url":"http://github.com/aurycat/vpm",
+        "text":"View on GitHub"
     },
     "bannerUrl":"",
     "githubRepos":[
-        "aurycat/testpkg"
+        "aurycat/UdonPortals"
     ],
 }
