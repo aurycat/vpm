@@ -12,6 +12,7 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "aurycat/UdonPortals"
-    ],
+        "aurycat/UdonPortals",
+	"aurycat/MinimalGestureGenerator"
+    ]
 }
